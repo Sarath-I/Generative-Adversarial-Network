@@ -3,6 +3,9 @@
 
 
 
+
+
+
 📌 Project Overview
 
 This project implements a Generative Adversarial Network (GAN) using TensorFlow/Keras to generate realistic handwritten digit images similar to the MNIST dataset.
@@ -88,6 +91,7 @@ TensorFlow / Keras
 NumPy
 Matplotlib
 Deep Learning
+
 
 📊 Results
 
